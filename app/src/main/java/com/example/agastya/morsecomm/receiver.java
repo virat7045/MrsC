@@ -288,7 +288,7 @@ public void onDestroy()
                                 index++;
                             }
                         }
-                        // Just a comment
+                        // Just a commentt
                         if(state_flag==false)
                         {
                             //start_off=System.currentTimeMillis();
